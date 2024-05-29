@@ -1,0 +1,119 @@
+.thirteen-page {
+    margin-top: 30px;
+}
+
+.thirteen-page h1 {
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 1.289;
+    text-transform: capitalize;
+    color: #000000;
+    text-align: center;
+}
+
+.thirteen-line {
+    height: 2px;
+    width: 240px;
+    background-color: #c1aa7f;
+    margin: auto;
+    /* margin-bottom: 12px; */
+}
+
+.bank-account-details {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+.our-bank-details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 350px;
+}
+
+.our-bank-details h2 {
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 34px;
+    line-height: 0.794;
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+.our-bank-details-point p {
+    text-wrap: pretty;
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.75;
+    text-transform: capitalize;
+    color: #000000;
+    margin-bottom: 3px;
+}
+
+.pay-travel h2 {
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 34px;
+    line-height: 0.794;
+    color: #000000;
+}
+
+.pay-travel {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 350px;
+}
+
+.payment-link {
+    margin-top: 28px;
+}
+
+.payment-link span {
+    font-size: 16px;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+}
+
+.payment-link a {
+    color: blue;
+    font-size: 16px;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+}
+
+.or {
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 22.5px;
+    line-height: 1.2;
+    color: #1E1E1E;
+    margin-top: 21px;
+}
+
+.bar-code img {
+    scale: 0.48;
+}
+
+.pay-travel-scan {
+    margin-top: 6px;
+    font-size: 16px;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+}
+
+.bar-code {
+    margin-top: -78px;
+
+}

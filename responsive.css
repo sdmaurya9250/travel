@@ -1,0 +1,2104 @@
+@media screen and (min-width: 360px) and (max-width: 431px) {
+
+    html,
+    body {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden;
+        scroll-behavior: smooth;
+    }
+
+    nav {
+        height: 9vh;
+        margin-bottom: 9px;
+    }
+
+    nav img {
+        scale: 0.6;
+    }
+
+    .nav-text {
+        font-size: 15px;
+    }
+
+    .slide img {
+        height: 59vh;
+    }
+
+    .background-blur {
+        margin-top: 0px;
+    }
+
+    .first-div div {
+        font-size: 15px;
+    }
+
+    .img {
+        margin-top: 5px;
+    }
+
+    .img img {
+        scale: 0.8;
+    }
+
+    .second-div>.heading {
+        font-size: 35px;
+        margin: auto;
+        margin-bottom: -31px;
+        margin-top: -61px;
+        text-align: center;
+    }
+
+    .date {
+        font-size: 20px;
+    }
+
+    .child {
+        font-size: 21px;
+        text-align: center;
+        line-height: 1.3;
+    }
+
+    .left-icon {
+        left: 0;
+        top: 185px;
+        height: 47px;
+        width: 39px;
+        padding: 3px 8px;
+    }
+
+    .right-icon {
+        right: 0;
+        top: 185px;
+        height: 47px;
+        width: 39px;
+        padding: 3px 8px;
+    }
+
+    .slide-vedio {
+        width: auto;
+        margin-top: 0;
+        height: 59vh;
+    }
+
+    .second-page-para {
+        font-size: 22px;
+    }
+
+    .country {
+        font-size: 30px;
+        margin-top: 15px;
+    }
+
+    .abouttrip-heading {
+        font-size: 38px;
+        margin-top: 10px;
+    }
+
+    .line1 {
+        width: 241px;
+        margin-top: -7px;
+    }
+
+    .about-trip {
+        margin-top: 20px;
+        flex-wrap: wrap;
+    }
+
+    .about-trip-left {
+        width: 100%;
+    }
+
+    .about-trip-left h2 {
+        font-size: 30px;
+    }
+
+    .about-trip-left span {
+        font-size: 15px;
+        width: 84%;
+    }
+
+    .about-trip-right {
+        width: 100%;
+        ;
+        margin-top: 9px;
+    }
+
+    .right-click {
+        width: 65%;
+    }
+
+    .right-click span {
+        font-size: 15px;
+    }
+
+    .second-page {
+        margin-bottom: 30px;
+    }
+
+    .itinerary-heading {
+        font-size: 38px;
+        margin-bottom: -3px;
+    }
+
+    .line2 {
+        width: 126px;
+        margin-bottom: 0px;
+    }
+
+    .day1 {
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+
+    .right-day1 {
+        width: 87%;
+        position: static;
+        text-align: center;
+        display: flex;
+        justify-content: end;
+        align-items: baseline;
+    }
+
+    .left-day1 h1 {
+        margin-top: 39px;
+        width: 42.5%;
+    }
+
+    #itinerary_day_one {
+        padding: 0 5px;
+    }
+
+    .left-day1 h2 {
+        font-size: 29px;
+        padding: 9px 93px;
+        margin-bottom: -11px;
+    }
+
+    #dayItinerarySlider {
+        width: 43%;
+        margin-top: 10px;
+    }
+
+    .Kaziranga-headings {
+        width: 46%;
+    }
+
+    .content1 span {
+        font-size: 15px;
+    }
+
+    .Kaziranga-para {
+        width: 60%;
+        padding-left: 100px;
+        margin-top: 0px;
+    }
+
+    .car3 span {
+        font-size: 15px;
+    }
+
+    .hotel span {
+        font-size: 15px;
+    }
+
+    .tour-detail-first {
+        width: 50%;
+        margin-left: 8px;
+    }
+
+    .car3 {
+        margin-left: 1px;
+    }
+    .car3 img {
+        scale: 0.24;
+        margin-bottom: 0px;
+    }
+
+    .hotel img {
+        scale: 0.48;
+        margin: auto 0;
+    }
+
+    .remarks {
+        font-size: 16px;
+        width: 42%;
+    }
+
+    .remarks span{
+        font-size: 16px;
+    }
+
+    .content2 span {
+        font-size: 14px;
+    }
+
+    .content2 {
+        width: 76%;
+    }
+
+    #sightseeingSlider {
+        width: 63%;
+        margin-top: 11px;
+    }
+
+    .Sightseeing-img h2 {
+        font-size: 29px;
+        padding: 9px 106px;
+        margin-bottom: -10.49px;
+    }
+
+    .SOHO-heading {
+        width: 49%;
+        margin-bottom: -8px;
+    }
+
+    .SOHO-heading span {
+        font-size: 24px;
+        margin-left: -11px;
+        margin-bottom: 7px;
+    }
+
+    .add-city {
+        font-size: 20px;
+        width: 31%;
+        margin-bottom: 9px;
+        padding-left: 0px;
+    }
+
+    .add-city span {
+        font-size: 22px;
+        line-height: 1.267;
+        margin-left: -16px;
+    }
+
+    .SOHO-para {
+        width: 42%;
+        padding-left: 29px;
+        font-size: 14px;
+    }
+    .SOHO-para span {
+        font-size: 16px;
+    }
+
+    .tour-detail-1 {
+        gap: 0px;
+        padding-right: 0px;
+        width: 70%;
+        margin-left: 58px;
+    }
+
+    .car4 span {
+        font-size: 17px;
+        margin-left: -77px;
+    }
+
+    .car4 img {
+        scale: 0.25;
+        margin: auto;
+    }
+
+    .left-four-day2 {
+        width: 153%;
+    }
+
+    .left-four-day2 h2 {
+        font-size: 29px;
+        width: 80%;
+        margin-bottom: 0px;
+    }
+
+    .transfer-location {
+        width: 100%;
+        margin-right: 0px;
+    }
+
+    .transfer-from h4 {
+        font-size: 27px;
+    }
+
+    .transfer-from-hotel span {
+        font-size: 21px;
+    }
+
+    .transfer-from-hotel img {
+        scale: 0.5;
+        margin: auto;
+    }
+
+    .transfer-from-time span {
+        overflow-wrap: break-word;
+        font-weight: 400;
+        font-size: 17px;
+    }
+
+    .transfer-to h4 {
+        font-size: 28px;
+    }
+
+    .transfer-to-hotel span {
+        font-size: 21px;
+    }
+
+    .transfer-to-hotel img {
+        scale: 0.5;
+        margin: auto 0;
+    }
+
+    .transfer-vertical-line {
+        left: -133px;
+        bottom: 136px;
+    }
+
+    .tour-detail-2 {
+        width: 95%;
+        gap: 0px;
+        padding-right: 0px;
+    }
+
+    .fouth-car span {
+        font-size: 19px;
+    }
+
+    .fouth-car img {
+        scale: 0.25;
+        margin: auto;
+    }
+
+    .fouth-car {
+        margin-left: -30px;
+    }
+
+    
+
+    .remarks1-span {
+        font-size: 17px;
+    }
+
+    .remarks1 {
+        width: 133%;
+        gap: 3px;
+        margin-top: -10px;
+        margin-right: 0px;
+    }
+
+    .remarks1-ul {
+        font-size: 17px;
+    }
+
+    .remarks1-span span {
+        font-size: 19px;
+    }
+
+    .remarks1-ul li {
+        font-size: 17px;
+    }
+
+    .left-fifth-day3 {
+        width: 40%;
+    }
+
+    .left-fifth-day3 h2 {
+        font-size: 29px;
+        width: 79%;
+        margin-bottom: 1px;
+    }
+
+    .Kaziranga-heading {
+        width: 38%;
+    }
+
+    .Kaziranga-heading span {
+        font-size: 28px;
+        margin-bottom: 4px;
+        margin-left: -10px;
+    }
+
+    .kaziranga-hoteladdress-location {
+        width: 39.5%;
+    }
+
+    .kaziranga-hoteladdress-location h4 {
+        margin-left: 1px;
+    }
+
+    .content3 {
+        margin-left: -61px;
+        width: 61%;
+    }
+
+    .content3 span {
+        font-size: 17px;
+    }
+
+    .car5 span {
+        font-size: 16px;
+    }
+
+    .car5 img {
+        scale: 0.25;
+        margin: auto;
+    }
+
+    .tour-detail {
+        width: 38%;
+        margin-left: 0px;
+    }
+
+    .hotel {
+        width: 50%;
+        margin-right: 59px;
+    }
+    .tour-detail-meal {
+        width: 44%;
+        gap: 10px;
+        margin-top: -30px;
+    }
+
+    .meal-location span {
+        font-size: 18px;
+    }
+
+    .meal-watch span {
+        font-size: 18px;
+    }
+
+    .meal-watch {
+        margin-right: 87px;
+    }
+
+    .meal-location img {
+        scale: 0.27;
+        margin: auto;
+    }
+
+    .meal-watch img {
+        scale: 0.5;
+        margin: auto;
+    }
+
+    .remarks3 {
+        font-size: 19px;
+        margin-left: 300px;
+    }
+
+    .left-day1 p {
+        font-size: 18px;
+    }
+
+    .sixth-page {
+        margin-top: 0px;
+    }
+
+    .sixth-page h1 {
+        font-size: 36px;
+        margin-bottom: -3px;
+    }
+
+    .sixth-line {
+
+        width: 119px;
+
+        margin-bottom: 67px;
+    }
+
+    .child1 {
+        width: 80%;
+        margin-top: -35px;
+    }
+
+    .child1 h2 {
+        font-size: 26px;
+    }
+
+    .child1 p {
+        font-size: 15px;
+        font-family: ' Georgia, serif';
+    }
+
+    .seventh-page {
+        margin-top: 0px;
+    }
+    .child1-2 {
+        width: 83%;
+        margin-top: 20px;
+        margin-bottom: -30px;
+    }
+
+    .seventh-title {
+        font-size: 28px;
+    }
+
+    .seventh-first-div {
+        flex-direction: column;
+        row-gap: 20px;
+    }
+
+    .seven-page {
+        width: 89%;
+        padding-top: 16px;
+    }
+
+    .seventh-star img {
+        margin-left: -4px;
+        margin-right: -14px;
+    }
+
+    .seventh-details-head {
+        font-size: 22px;
+    }
+
+    .seventh-citi img {
+        scale: 0.44;
+        margin-bottom: 6px;
+    }
+
+    .seventh-chekin {
+        font-size: 17px;
+    }
+
+    .seventh-chekin span {
+        font-size: 17px;
+    }
+
+    .seventh-detail {
+        margin: auto 17px;
+    }
+
+    .width-of-card {
+        width: 87%;
+        margin: 0 10px 20px 43px;
+    }
+
+    .Pick-up-date {
+        margin-left: 38px;
+    }
+
+    .eight-page h1 {
+        font-size: 37px;
+    }
+
+    .eight-line {
+        width: 104px;
+        margin-top: -13px;
+    }
+
+    .eight-page p {
+        font-size: 25px;
+    }
+
+    .self-drive-heading h1 {
+        font-size: 28px;
+        text-align: center;
+        padding: 10px 0px 10px;
+    }
+
+    .self-drive-div {
+        margin-top: 10px;
+    }
+
+    .self-drive-div p {
+        font-size: 21px;
+
+        margin-bottom: 9px;
+    }
+
+    .Pick-up-date p {
+        font-size: 20px;
+    }
+
+    .drop-off-Date p {
+        font-size: 20px;
+    }
+
+    .drop-off-Date {
+        margin-right: -7px;
+    }
+
+    .self-drive-vertical-line img {
+        scale: 0.56;
+        bottom: -66px;
+        right: 150px;
+    }
+
+    .eight-page p {
+        font-size: 15px;
+        text-align: center;
+    }
+
+    .self-drive-vertical-lines img {
+        scale: 0.99;
+        bottom: -34px;
+        right: 556px;
+    }
+
+
+    .vehicle-driver span {
+        font-size: 20px;
+    }
+
+    .car6 {
+        scale: 0.28;
+        margin: auto -1px;
+    }
+
+    .nineth-page h1 {
+        font-size: 37px;
+        margin-bottom: -3px;
+    }
+
+    .nineth-line {
+        width: 300px;
+    }
+
+    .nineth-page p {
+        font-size: 25px;
+    }
+
+    .arrival-departure {
+        flex-wrap: wrap;
+    }
+
+    .arrival-from {
+        margin-left: 77px;
+    }
+
+    .departure-to {
+        margin-right: 76px;
+        margin-top: 18px;
+    }
+
+    .arrival-departure-div {
+        margin-bottom: 45px;
+    }
+
+    .arrival-text p {
+        font-size: 20px;
+        margin-left: -3px;
+        width: 86%;
+    }
+
+    .departure-text p {
+        font-size: 20px;
+
+        margin-left: 72px;
+    }
+
+    .arrival-departure-vertical-line img {
+        scale: 0.86;
+        bottom: 176px;
+        right: -169px;
+    }
+
+    .tour-price{
+        margin: 0px 10px;
+    }
+
+    .arrival-price{
+        margin: 0px 10px;
+    }
+
+    .eleventh-main h2 {
+        font-size: 32px;
+    }
+
+    .arrival-from h3 {
+        margin-right: 234px;
+    }
+
+    .arrival-departure-remarks p {
+        font-size: 18px;
+        padding-left: 15px;
+    }
+
+    .tenth-page-main {
+        flex-wrap: wrap;
+        margin-top: 42px;
+        row-gap: 18px;
+    }
+
+    .tour-price-first span {
+        font-size: 15px;
+    }
+
+    .tour-price-second span {
+        font-size: 15px;
+    }
+
+    .tour-price-second img {
+        margin-right: -12px;
+    }
+
+    .tour-price-first img {
+        margin-right: -12px;
+
+    }
+
+    .arrival-price-first span {
+        font-size: 15px;
+    }
+
+    .arrival-price-second span {
+        font-size: 15px;
+    }
+
+
+    .arrival-price-first img {
+      margin-right: -12px;
+    }
+
+    .arrival-price-second img {
+        margin-right: -12px;
+    }
+
+    .thirteen-page h1 {
+        font-size: 39px;
+        margin-bottom: -8px;
+    }
+
+    .thirteen-line {
+        width: 225px;
+    }
+
+    .our-bank-details h2 {
+        font-size: 27px;
+        margin-top: 15px;
+    }
+
+    .our-bank-details-point{
+        margin-left: 100px;
+        width: 110%;
+    }
+
+    .our-bank-details-point p {
+        margin-right: 54px;
+        width: 85%;
+    }
+
+    .pay-travel h2 {
+        font-size: 30px;
+        margin-top: -20px;
+    }
+
+    .Kaziranga-headings span {
+        margin-left: -10px;
+    }
+
+    .Kaziranga-headings img {
+        scale: 0.4;
+    }
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/* Low-Resolution Tablets and iPads */
+@media screen and (min-width: 700px) and (max-width: 768px) {
+
+    html,
+    body {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        height: 100%;
+        overflow-x: hidden;
+    }
+
+    #itinerary_day_one {
+        width: 100%;
+    }
+
+    .left-fifth-day3 {
+        width: 35%;
+    }
+
+    nav {
+        height: 11vh;
+    }
+
+    .nav-text {
+        font-size: 17px;
+    }
+
+    nav img {
+        margin: auto 0;
+    }
+
+    .slide img {
+        height: 55vh;
+        margin-top: 9px;
+    }
+
+    .slide-vedio {
+        height: 55vh;
+        width: auto;
+    }
+
+    .first-div div {
+        font-size: 18px;
+    }
+
+    .second-div>.heading {
+        font-size: 54px;
+        margin-top: -65px;
+    }
+
+    .line {
+        margin-top: -19px;
+    }
+
+    .date {
+        font-size: 22px;
+        margin-top: -5px;
+    }
+
+    .child {
+        font-size: 22px;
+        margin-top: -5px;
+    }
+
+    .left-icon,
+    .right-icon {
+        width: 40px;
+        height: 46px;
+        padding: 5px 7px;
+    }
+
+    .right-icon,
+    .left-icon {
+        top: 228px;
+        scale: 0.9;
+    }
+
+    .right-icon {
+        right: -2px;
+    }
+
+    .left-icon {
+        left: -2px;
+    }
+
+    .second-page {
+        margin: 25px 10px;
+    }
+
+    .second-page-para {
+        font-size: 24px;
+    }
+
+    .country {
+        font-size: 35px;
+        margin-top: 8px;
+    }
+
+    .abouttrip-heading {
+        font-size: 39px;
+        margin-top: 10px;
+    }
+
+    .line1 {
+        width: 256px;
+        margin: auto;
+    }
+
+    .about-trip {
+        margin-top: 25px;
+        display: flex;
+        justify-content: center;
+        align-items: baseline;
+    }
+
+    .about-trip-left h2 {
+        font-size: 33px;
+    }
+
+    .about-trip-right h2 {
+        font-size: 33px;
+    }
+
+    .about-trip-left span {
+        font-size: 15px;
+        width: 84%;
+    }
+
+    .right-click span {
+        font-size: 15px;
+    }
+
+    .right-click {
+        width: 69%;
+    }
+
+    .itinerary-heading {
+        font-size: 38px;
+    }
+
+    .line2 {
+        width: 125px;
+        margin-bottom: 0px;
+        margin: auto;
+        margin-top: -7px;
+    }
+
+    .left-day1 h1 {
+        font-size: 18px;
+    }
+
+    .right-btn a {
+        font-size: 11px;
+    }
+
+    .right-btn {
+        padding: 5px 11px 5px 11px;
+    }
+
+    .right-btn:hover {
+        padding: 5px 11px 5px 11px;
+        background-color: #73664c;
+    }
+
+    .arrow {
+        position: absolute;
+        left: -28px;
+        top: -1px;
+        width: 0;
+        height: 0;
+        border-top: 22px solid transparent;
+        border-bottom: 21px solid transparent;
+        border-right: 28px solid #73664c;
+        opacity: 0;
+    }
+
+    .right-btn:hover .arrow {
+        opacity: 1;
+        transition: opacity 0.5s;
+    }
+
+    .left-day1 h2 {
+        padding: 6px 111px;
+        font-size: 27px;
+        margin-bottom: -28px;
+    }
+
+    .Kaziranga-heading img {
+        scale: 0.37;
+        margin: auto 0;
+    }
+
+    .Kaziranga-heading span {
+        font-size: 24px;
+    }
+
+    .content1 {
+        margin-left: 164px;
+        width: 110%;
+        margin-top: -13px;
+    }
+
+    .content1 span {
+        font-size: 15px;
+    }
+
+    .car3 span {
+        font-size: 18px;
+    }
+
+    .hotel span {
+        font-size: 18px;
+    }
+
+    .tour-detail-first {
+        margin-top: -41px;
+        margin-left: 97px;
+    }
+
+    .car3 img {
+        scale: 0.25;
+    }
+
+    .hotel img {
+        scale: 0.5;
+        margin: auto 0;
+    }
+
+    .remarks {
+        font-size: 17px;
+    }
+
+    .content2 span {
+        font-size: 17px;
+    }
+
+    .Sightseeing-img h2 {
+        padding: 6px 120px;
+        font-size: 27px;
+    }
+
+    .SOHO-heading {
+        width: 80%;
+    }
+
+    .SOHO-heading img {
+        scale: 0.37;
+        margin: auto;
+    }
+
+    .SOHO-heading span {
+        font-size: 24px;
+        margin-right: 29px;
+    }
+
+    .add-city {
+        font-size: 19px;
+        padding-left: 43px;
+    }
+
+    .SOHO-para {
+        font-size: 13px;
+        width: 80%;
+        margin-left: 22px;
+    }
+
+    .tour-detail-1 {
+        gap: 0px;
+        padding-right: 0px;
+        margin-left: 11px;
+        margin-top: -9px;
+    }
+
+    .car4 span {
+        font-size: 18px;
+        margin-left: -32px;
+    }
+
+    .car4 img {
+        scale: 0.25;
+        margin: auto;
+    }
+
+    .left-four-day2 h2 {
+        font-size: 27px;
+        padding: 6px 144px;
+    }
+
+    .transfer-location {
+        margin-right: 74px;
+    }
+
+    .transfer-from h4 {
+        font-size: 24px;
+    }
+
+    .transfer-to h4 {
+        font-size: 24px;
+    }
+
+    .transfer-vertical-line {
+        left: -139px;
+        bottom: 132px;
+        scale: 0.44;
+    }
+
+    .transfer-from-hotel span {
+        font-size: 19px;
+    }
+
+    .transfer-from-hotel img {
+        scale: 0.46;
+        margin: auto;
+    }
+
+    .transfer-from-time span {
+        font-size: 17px;
+    }
+
+    .transfer-from-time img {
+        scale: 0.5;
+        margin: auto 0;
+    }
+
+    .transfer-to-hotel span {
+        font-size: 19px;
+    }
+
+    .transfer-to-hotel img {
+        scale: 0.46;
+        margin: auto;
+    }
+
+    .transfer-from-hotel {
+        margin-bottom: -7px;
+    }
+
+    .transfer-to-hotel {
+        margin-bottom: -7px;
+    }
+
+
+    .fouth-car span {
+        font-size: 21px;
+    }
+
+    .fouth-car img {
+        scale: 0.26;
+        margin: auto;
+    }
+
+    .remarks1-span {
+        font-size: 18px;
+    }
+
+    .remarks1-ul {
+        font-size: 17px;
+    }
+
+    .remarks1 {
+        width: 100%;
+        margin-left: 179px;
+        gap: 12px;
+    }
+
+    .left-fifth-day3 h2 {
+        font-size: 27px;
+        padding: 6px 156px;
+    }
+
+    .Kaziranga-Guwahati {
+        margin-top: 10px;
+        width: 27%;
+    }
+
+    .Kaziranga-heading {
+        margin-right: 36px;
+        width: 100%;
+    }
+
+    .Kaziranga-headings span {
+        font-size: 24px;
+    }
+
+    .Kaziranga-headings img {
+        scale: 0.39;
+    }
+
+    .kaziranga-hoteladdress-location {
+        margin-left: -16px;
+    }
+
+    .kaziranga-hoteladdress-location h3 {
+        font-size: 22px;
+        margin-bottom: 2px;
+    }
+
+    .kaziranga-hoteladdress-location h4 {
+        font-size: 20px;
+    }
+
+    .content3 span {
+        font-size: 16px;
+    }
+
+    .content3 {
+        margin-left: 140px;
+        width: 413px;
+    }
+
+    .tour-detail {
+        width: 100%;
+        margin-left: 0px;
+    }
+
+    .car5 span {
+        font-size: 19px;
+    }
+
+    .car5 img {
+        scale: 0.25;
+        margin: auto;
+    }
+
+    .tour-detail-meal {
+        width: 100%;
+        margin-top: -21px;
+    }
+
+    .meal-location span {
+        font-size: 18px;
+    }
+
+    .meal-watch span {
+        font-size: 18px;
+    }
+
+    .meal-location {
+        gap: 15px;
+        margin-left: 15px;
+    }
+
+    .meal-location img {
+        scale: 0.3;
+        margin: auto;
+    }
+
+    .meal-watch {
+        margin-right: 44px;
+    }
+
+    .meal-watch img {
+        scale: 0.5;
+        margin: auto;
+    }
+
+    .left-day1 p {
+        margin-left: 296px;
+        font-size: 20px;
+    }
+
+    .remarks3 {
+        font-size: 21px;
+    }
+
+    .sixth-page h1 {
+        font-size: 38px;
+    }
+
+    .sixth-page {
+        margin-top: 0px;
+    }
+
+    .sixth-line {
+        height: 2px;
+        width: 126px;
+        ;
+        margin: auto;
+        margin-bottom: 50px;
+        margin-top: -8px;
+    }
+
+    .child1 h2:nth-child(1) {
+        margin-bottom: 5px;
+    }
+
+    .child1 h2 {
+        font-size: 26px;
+    }
+
+    .child1 p {
+        font-size: 15px;
+        margin-bottom: 3px;
+
+    }
+
+    .carousel-item {
+        margin-top: 20px;
+    }
+
+    .child1-2 {
+        width: 64%;
+        margin: 0 auto;
+        margin-bottom: -107px;
+    }
+
+    .child1 {
+        width: 80%;
+    }
+
+    .seventh-page {
+        margin-top: 90px;
+    }
+
+    .seventh-page h1 {
+        font-size: 38px;
+    }
+
+    .seventh-line {
+        width: 69px;
+        margin: auto;
+        margin-top: -12px;
+    }
+
+    .seventh-title {
+        font-size: 26px;
+    }
+
+    .seven-page {
+        width: 50%;
+        margin: 0 auto;
+    }
+
+    .seventh-detail {
+        display: flex;
+        flex-direction: column;
+        align-items: baseline;
+        margin-top: 22px;
+        margin-left: 121px;
+        width: 100%;
+    }
+
+    .seventh-star img {
+        scale: 0.5;
+        margin-left: -9px;
+        margin-right: -6px;
+    }
+
+
+    .seventh-details-head {
+        font-size: 24px;
+    }
+
+    .seventh-citi img {
+        scale: 0.43;
+        margin-bottom: 1px;
+        margin-left: -3px;
+    }
+
+    .seventh-night {
+        margin-top: -12px;
+    }
+
+    .seven-page-lastdiv {
+        width: 150%;
+        margin: 0 208px 13px;
+    }
+
+    .eight-page {
+        margin-top: 20px;
+    }
+
+    .eight-page h1 {
+        font-size: 34px;
+        margin-bottom: 0px;
+    }
+
+    .eight-page p {
+        font-size: 24px;
+    }
+
+    .self-drive {
+        margin-top: 30px;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .self-drive-div {
+        width: 39%;
+        margin: 15px auto 5px;
+        margin-bottom: 18px;
+    }
+
+    .self-drive-div p {
+        font-size: 21px;
+        margin-bottom: 12px;
+
+    }
+
+    .self-drive {
+        width: 86%;
+    }
+
+    .Pick-up-date p {
+        font-size: 20px;
+    }
+
+    .Pick-up-date {
+        margin: 0 183px;
+    }
+
+    .drop-off-Date p {
+        font-size: 20px;
+    }
+
+    .drop-off-Date {
+        margin-right: 18px;
+        margin-top: 13px;
+    }
+
+    .self-drive-vertical-line img {
+        scale: 0.66;
+        bottom: -75px;
+        right: 314px;
+    }
+
+    .self-drive-vertical-lines img {
+        scale: 1.1;
+        bottom: -43px;
+        right: 975px;
+    }
+
+    .self-drive-remarks span {
+        font-size: 21px;
+    }
+
+    .self-drive-remarks p {
+        font-size: 21px;
+    }
+
+    .vehicle-driver {
+        margin: 0 73px 0 0;
+    }
+
+    .nineth-page h1 {
+        font-size: 36px;
+    }
+
+    .nineth-line {
+        width: 300px;
+        margin-top: -6px;
+    }
+
+    .nineth-page p {
+        font-size: 24px;
+    }
+
+    .nineth-first-div {
+        margin-top: 28px;
+    }
+
+    .arrival-departure {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        row-gap: 12px;
+    }
+
+    .arrival-from {
+        margin-left: 70px;
+    }
+
+    .arrival-departure-div {
+        margin-bottom: 30px;
+    }
+
+    .arrival-text p {
+        font-size: 20px;
+    }
+
+    .departure-text p {
+        font-size: 20px;
+    }
+
+    .departure-to {
+        margin-right: 88px;
+    }
+
+    .arrival-departure-vertical-line img {
+        scale: 0.8;
+        bottom: 67px;
+        right: 6px;
+    }
+
+    .arrival-from h3 {
+        margin-right: 236px;
+    }
+
+    .arrival-departure-remarks span {
+        font-size: 20px;
+    }
+
+    .arrival-departure-remarks p {
+        font-size: 20px;
+        text-align: center;
+        margin: 0 62px 10px 0;
+    }
+
+    .arrival-price h1 {
+        font-size: 27px;
+    }
+
+    .tour-price h1 {
+        font-size: 29px;
+    }
+
+    .tour-price-first span {
+        margin-left: 0px;
+        font-size: 15px;
+    }
+
+    .tour-price-second span {
+        margin-left: 0px;
+        font-size: 15px;
+    }
+
+    .arrival-price-first span {
+        margin-left: 0px;
+        font-size: 15px;
+    }
+
+    .arrival-price-second span {
+        margin-left: 0px;
+        font-size: 15px;
+    }
+
+    .tour-price-first img {
+        scale: 0.44;
+        margin: auto;
+    }
+
+    .arrival-price-first img {
+        scale: 0.44;
+        margin: auto;
+    }
+
+    .tour-price-second img {
+        scale: 0.44;
+        margin: auto;
+    }
+
+    .arrival-price-second img {
+        scale: 0.44;
+        margin: auto;
+    }
+
+    .eleventh-page h1 {
+        font-size: 40px;
+    }
+
+    .eleventh-line {
+        width: 163px;
+    }
+
+    .thirteen-page {
+        margin-top: 30px;
+    }
+
+    .thirteen-page h1 {
+        font-size: 37px;
+        margin-bottom: -5px;
+    }
+
+    .thirteen-line {
+        width: 204px;
+    }
+
+    .our-bank-details h2 {
+        margin-top: 18px;
+        font-size: 29px;
+    }
+
+    .Pick-up-date h3 {
+        margin-bottom: -4px;
+        margin-top: -4px;
+    }
+
+    .drop-off-Date h3 {
+        margin-bottom: -5px;
+        margin-top: -4px;
+    }
+
+
+}
+
+/* Tablets iPads (portrait mode) */
+@media screen and (min-width: 1000px) and (max-width: 1024px) {
+
+    nav {
+        height: 10vh;
+    }
+
+    .nav-text {
+        font-size: 17px;
+    }
+
+    .slide img {
+        margin-top: 9px;
+        height: 40vh;
+    }
+
+    .slide-vedio {
+        margin-top: 8px;
+        width: auto;
+        height: 40vh;
+    }
+
+
+    .right-icon {
+        background-color: #c1aa7f;
+        width: 54px;
+        height: 50px;
+        padding: 5px 14px;
+    }
+
+    .left-icon {
+        background-color: #c1aa7f;
+        width: 54px;
+        height: 50px;
+        padding: 5px 11px;
+    }
+
+    .abouttrip-heading {
+        margin-top: 10px;
+    }
+
+    .second-div {
+        margin-top: 90px;
+    }
+
+    .second-page {
+        margin-bottom: 40px;
+    }
+
+    .about-trip-right {
+        margin-top: -80px;
+    }
+
+    .left-day1 h2 {
+        width: 573px;
+        padding: 6px 0;
+        margin-bottom: -58px;
+    }
+
+    .content1 {
+        margin-left: -15px;
+    }
+
+    .car3 span {
+        font-size: 21px;
+    }
+
+    .hotel span {
+        font-size: 20px;
+    }
+
+    .left-four-day2 {
+        width: 99%;
+    }
+
+    .tour-detail-first {
+        margin-left: 92px;
+    }
+
+    .car3 img {
+        margin-bottom: 0px;
+    }
+
+    .remarks {
+        font-size: 19px;
+    }
+
+    .content2 span {
+        font-size: 17px;
+    }
+
+    .SOHO-para {
+        font-size: 17px;
+    }
+
+    .tour-detail-1 {
+        gap: 8px;
+        padding-right: 0px;
+    }
+
+    .left-four-day2 h2 {
+        width: 559px;
+        padding: 6px 0;
+    }
+
+    .transfer-location {
+        margin-right: 140px;
+    }
+
+    .transfer-vertical-line {
+        left: -111px;
+    }
+
+    .remarks1-span {
+        font-size: 22px;
+    }
+
+    .remarks1-ul {
+        font-size: 20px;
+    }
+
+    .left-fifth-day3 {
+        width: 70%;
+    }
+
+    .left-fifth-day3 h2 {
+        width: 597px;
+        padding: 6px 0;
+    }
+
+    .Kaziranga-heading {
+        width: 50%;
+    }
+
+    .kaziranga-hoteladdress-location {
+        width: 49.9%;
+    }
+
+    .content3 {
+        margin-left: 121px;
+        width: 70%;
+    }
+
+    .tour-detail {
+        width: 53%;
+        margin-left: 83px;
+        margin-top: -48px;
+    }
+
+    .car5 span {
+        font-size: 20px;
+    }
+
+    .hotel span {
+        font-size: 18.4px;
+    }
+
+    .tour-detail-meal {
+        width: 53%;
+        margin-left: 30px;
+    }
+
+    .meal-location span {
+        font-size: 21px;
+    }
+
+    .meal-watch span {
+        font-size: 21px;
+    }
+
+    .meal-location img {
+        scale: 0.26;
+        margin: auto -3px;
+    }
+
+    .meal-watch img {
+        scale: 0.46;
+        margin: auto -6px;
+    }
+
+    .meal-watch {
+        margin-right: 101px;
+    }
+
+    .remarks3 {
+        font-size: 22px;
+        margin-left: 229px;
+    }
+
+    .left-day1 p {
+        font-size: 21px;
+        margin-top: -10px;
+    }
+
+    .child1 {
+        width: 80%;
+    }
+
+    .child1-2 {
+        margin-bottom: -220px;
+        width: auto;
+    }
+
+    .child1 h2 {
+        font-size: 28px;
+    }
+
+    .child1 p {
+        font-size: 17px;
+    }
+
+    .seventh-page{
+        margin-top: 0px;
+    }
+    .seventh-first-div {
+        flex-wrap: nowrap;
+        align-items: center;
+        width: 98%;
+        height: auto;
+        margin: 0 auto;
+        margin-bottom: 30px;
+    }
+
+    .seventh-detail {
+        width: 40%;
+    }
+
+    .width-of-card {
+        width: 27%;
+        height: 21vh;
+    }
+
+    #stay1Slider{
+        height: 26vh;
+    }
+
+    #stay2Slider{
+        height: 26vh;
+    }
+    .seven-page {
+    }
+
+    .carousel-item {
+        margin-top: 48px;
+    }
+
+
+    .seventh-star img {
+        scale: 0.45;
+        margin-left: -10px;
+        margin-right: -7px;
+    }
+
+    .seventh-details-head {
+        font-size: 20px;
+        margin-bottom: -8px;
+    }
+
+    .seventh-citi img {
+        scale: 0.45;
+        margin-bottom: 1px;
+    }
+
+    .seventh-citi {
+        margin-top: -6px;
+    }
+
+    .seventh-chekin {
+        font-size: 18px;
+    }
+
+    .seventh-chekin span {
+        font-size: 18px;
+    }
+
+    .seven-page-lastdiv {
+        width: 98%;
+    }
+
+    .self-drive-heading h1 {
+        font-size: 26px;
+    }
+
+    .self-drive-div p {
+        font-size: 19px;
+    }
+
+    .Pick-up-date {
+        margin-left: 47px;
+    }
+
+    .Pick-up-date p {
+        font-size: 19px;
+    }
+
+    .drop-off-Date p {
+        font-size: 19px;
+    }
+
+    .Pick-up-date h3 {
+        font-size: 22px;
+    }
+
+    .drop-off-Date h3 {
+        font-size: 22px;
+    }
+
+    .drop-off-Date {
+        margin-right: 0px;
+    }
+
+    .drive {
+        padding: 30px 0px;
+    }
+
+    .pick-up-hotel img {
+        scale: 0.5;
+    }
+
+    .drop-off-hotel img {
+        scale: 0.5;
+    }
+
+    .pick-up-hotel span {
+        font-size: 19px;
+        margin-bottom: 6px;
+    }
+
+    .drop-off-hotel span {
+        font-size: 19px;
+        margin-bottom: 6px;
+    }
+
+    .pick-up-time span {
+        font-size: 17px;
+    }
+
+    .pick-up-time img {
+        scale: 0.53;
+        margin-bottom: 0px;
+    }
+
+    .drop-off-time span {
+        font-size: 17px;
+    }
+
+    .drop-off-time img {
+        scale: 0.53;
+        margin-bottom: 0px;
+    }
+
+    .pick-up-time {
+        margin-top: -12px;
+    }
+
+    .drop-off-time {
+        margin-top: -13px;
+    }
+
+    .self-drive-vertical-line img {
+        scale: 0.41;
+        bottom: -14px;
+    }
+
+    .self-drive-vertical-lines img {
+        scale: 0.99;
+        bottom: -14px;
+    }
+
+    .self-drive-remarks p {
+        font-size: 18px;
+        margin-top: 0px;
+    }
+
+    .arrival-from {
+        margin-left: 153px;
+    }
+
+    .arrival-departure-div img {
+        scale: 0.5;
+    }
+
+    .arrival-departure-div h1 {
+        font-size: 29px;
+    }
+
+    .arrival-location img {
+        scale: 0.5;
+        margin-bottom: 1px;
+    }
+
+    .departure-city img {
+        scale: 0.5;
+        margin-bottom: -1px;
+    }
+
+    .arrival-from h3 {
+        margin-right: 230px;
+    }
+
+    .arrival-text p {
+        font-size: 20px;
+        margin-top: -5px;
+        margin-left: -9px;
+        margin-bottom: 0px;
+    }
+
+    .departure-text p {
+        font-size: 19px;
+        margin-top: -3px;
+        margin-left: 49px;
+        margin-bottom: 8px;
+    }
+
+    .self-drive {
+        margin-bottom: 30px;
+    }
+
+
+}
+
+/* Desktops */
+@media(max-width: 1280px) {
+
+    .slide-vedio {
+        width: auto;
+        height: 88vh;
+    }
+
+    .slide img {
+        width: 100%;
+        height: 88vh;
+    }
+
+    .arrow {
+        left: -24px;
+    }
+
+    .left-day1 h2 {
+        padding: 9px 233px
+    }
+
+    .tour-detail-first {
+        margin-left: 67px;
+    }
+
+    .Sightseeing-img h2 {
+        padding: 9px 243px;
+    }
+
+    .tour-detail-1 {
+        padding-right: 2px;
+    }
+
+    .left-four-day2 h2{
+        padding: 9px 266px;
+    }
+
+    .transfer-location {
+        margin-right: 233px;
+    }
+
+    .transfer-vertical-line {
+        left: -76px;
+        bottom: 152px;
+        scale: 0.52;
+    }
+
+    .tour-detail-2 {
+        width: 66%;
+    }
+
+    .remarks1 {
+        margin-right: -15px;
+    }
+
+    .left-fifth-day3 h2 {
+        padding: 9px 343px;
+    }
+
+    .seventh-first-div {
+        width: 97%;
+    }
+
+    .self-drive {
+        width: 95%;
+    }
+
+    .nineth-first-div {
+        width: 95%;
+    }
+    
+    .nineth-second-div {
+        width: 95%;
+
+    }
+
+   
+
+}

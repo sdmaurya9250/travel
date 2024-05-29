@@ -1,0 +1,308 @@
+.nineth-page{
+    margin-top: 60px;
+    /* margin-bottom: 50px; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.nineth-page h1 {
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 1.289;
+    color: #000000;
+    text-align: center;
+}
+
+.nineth-line {
+    height: 2px;
+    width: 360px;
+    background-color: #c1aa7f;
+    margin: auto;
+}
+
+.nineth-page p{
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 1.289;
+    color: #000000;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.nineth-first-div {
+    margin-top: 5px;
+    border-radius: 8px;
+    border: 1px solid #050505;
+    width: 90%;
+    background-color: #F5FAFF;
+}
+
+.arrival-departure {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 20px 0px;
+}
+
+.arrival-departure-div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 56px;
+}
+
+.arrival-departure-div h1 {
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 30px;
+}
+
+.arrival-departure-div p {
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 1.042;
+    color: #000000;
+}
+.arrival-departure-div img{
+    scale: 0.6;
+}
+
+.arrival-from{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 198px;
+}
+
+.arrival-from h3 {
+    margin-bottom: -10px;
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 1.289;
+    color: #000000;
+    margin-right: 225px;
+}
+
+.arrival-location{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: -147px;
+}
+
+.arrival-location span {
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1;
+    color: #000000;
+}
+
+.arrival-location img {
+    scale: 0.55;
+    margin-bottom: 8px;
+}
+.arrival-date{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: -17px;
+    margin-left: -187px;
+
+}
+
+.arrival-date span {
+    overflow-wrap: break-word;
+    font-weight: 400;
+    font-family: lato;
+    font-size: 18px;
+    line-height: 1;
+    color: #000000;
+    margin-left: -5px;
+}
+
+.arrival-date img {
+    scale: 0.4;
+    margin-bottom: 8px;
+}
+
+.arrival-time{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: -26px;
+    margin-left: -190px;
+}
+
+.arrival-time span {
+    overflow-wrap: break-word;
+    font-weight: 400;
+    font-family: lato;
+    font-size: 18px;
+    line-height: 1;
+    color: #000000;
+    margin-left: 4px;
+}
+
+.arrival-time img {
+    scale: 0.55;
+    margin-bottom: 8px;
+}
+
+.departure-to {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 133px;
+
+}
+
+.departure-to h3 {
+    margin-bottom: -10px;
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 1.289;
+    color: #000000;
+    margin-right: 107px;
+}
+
+.departure-city{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.departure-city span {
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1;
+    color: #000000;
+}
+
+.departure-city img {
+    scale: 0.55;
+    margin-bottom: 8px;
+}
+.departure-time{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: -3px;
+    margin-right: 35px;
+}
+
+.departure-time span {
+    overflow-wrap: break-word;
+    font-family: lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1;
+    color: #000000;
+    margin-left: 7px;
+}
+
+.departure-time img {
+    scale: 0.55;
+    margin-bottom: 8px;
+}
+.departure-date{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: -27px;
+    margin-left: 3px;
+    margin-right: 29px;
+}
+
+.departure-date span {
+    overflow-wrap: break-word;
+    font-weight: 400;
+    font-family: lato;
+    font-size: 18px;
+    line-height: 1;
+    color: #000000;
+}
+
+.departure-date img {
+    scale: 0.4;
+    margin-bottom: 8px;
+}
+
+.arrival-departure-vertical-line{
+    position: relative;
+}
+
+.arrival-departure-vertical-line img {
+    position: absolute;
+    transform: rotate(90deg);
+    scale: 0.52;
+    bottom: -9px;
+    right: -127px;
+}
+
+.arrival-departure-remarks p{
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.289;
+    color: #000000;
+    text-align: start;
+    margin-top: 1px;
+    margin-bottom: 15px;
+}
+.arrival-departure-remarks span{
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 1.289;
+    color: #000000;
+    margin-left: 70px;
+    text-decoration: underline #c1aa7f;
+}
+
+.arrival-text p{
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 20px;
+    color: grey;
+    line-height: 1.289;
+    margin-top: -8px;
+    margin-left: 11px;
+}
+
+.departure-text p {
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 20px;
+    color: grey;
+    line-height: 1.289;
+    margin-top: -8px;
+    margin-left: 11px;
+}
+
+.nineth-second-div{
+    margin-top: 30px;
+    /* margin-bottom: 60px; */
+    border-radius: 8px;
+    border: 1px solid #000000;
+    width: 90%;
+    background-color:  #F5FAFF;
+}

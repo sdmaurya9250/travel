@@ -1,0 +1,383 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: ' Georgia, serif';
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    /* overflow-x: hidden; */
+    scroll-behavior: smooth;
+}
+
+#dayItinerarySlider{
+    width: 718px;
+    height: 381px;
+}
+
+
+#sightseeingSlider{
+    width: 718px;
+    height: 381px;
+}
+
+.width-of-card{
+    width: 25%;
+}
+
+nav {
+    height: 102px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-color: #73664c;
+    color: #ffff;
+    padding-left: 57px;
+    /* margin-bottom: 9px; */
+}
+
+nav img {
+    width: 80px;
+    height: 52px;
+    object-fit: cover;
+    margin: auto;
+}
+
+.img {
+    margin-top: 7px;
+}
+
+.img span {
+font-size: 20px;
+font-family: lato;
+}
+.img img {
+
+    scale: 0.8;
+}
+
+.hotel2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.hotel2 span {
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.267;
+    color: #000000;
+    margin-left: -36px;
+    width: 217px;
+}
+
+.hotel2 img {
+    scale: 0.6;
+    margin: auto 0;
+}
+
+
+.hotel3 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-right: 147px;
+}
+
+.hotel3 span {
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.267;
+    color: #000000;
+    margin-left: 4px;
+    width: 160px;
+}
+
+.hotel3 img {
+    scale: 0.6;
+    margin: auto 0;
+}
+
+.nav-text {
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.nav-text span {
+    margin-left: 18px;
+    font-size: 20px;
+    color: #ffff;
+    font-family: ' Georgia, serif';
+    line-height: 1.6;
+}
+
+
+.slide-vedio {
+    margin-top: 9px;
+    width: 100%;
+    /* height: 90vh; */
+}
+
+.slider {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
+
+.slides-container {
+    display: flex;
+    transition: transform 0.5s ease;
+    object-fit: cover;
+    height: 74vh;
+}
+
+.slide {
+    flex: 0 0 100%;
+}
+
+/* .slide-first img {
+    width: 100%;
+    height: 90vh;
+    object-fit: cover;
+} */
+.slide img {
+    margin-top: 9px;
+    width: 100%;
+    height: 80vh;
+    object-fit: cover;
+}
+
+
+.first-page {
+    width: 100%;
+    /* background-image: url(./assets/images/image3.png); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: #ffff;
+    position: relative;
+    margin-top: -9px;
+}
+
+.background-blur {
+    position: absolute;
+    top: 0px;
+    width: 100%;
+    height: 90vh;
+    backdrop-filter: invert(10%);
+    padding: 50px;
+    margin-top: 0px;
+}
+
+.first-div {
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+.first-div div {
+    color: #FFFFFF;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.Kaziranga-headings{
+    margin-top: 60px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 72%;
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+}
+.Kaziranga-headings span{
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.Kaziranga-headings img {
+    scale: 0.5;
+}
+
+
+.second-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 100px;
+}
+
+.second-div>.heading {
+    display: inline-block;
+    align-self: center;
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 65px;
+    line-height: 1.4;
+    color: #FFFFFF;
+}
+
+.date {
+    display: inline-block;
+    align-self: center;
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.083;
+    color: #FFFFFF;
+}
+
+.child {
+    display: inline-block;
+    align-self: center;
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 500;
+    font-size: 24px;
+    letter-spacing: 2.9px;
+    line-height: 0.817;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.line {
+    height: 1px;
+    width: 302px;
+    background-color: #c1aa7f;
+}
+
+
+
+.left-icon,
+.right-icon {
+    background-color: #c1aa7f;
+    width: 60px;
+    height: 60px;
+    padding: 2px 16px;
+    position: absolute;
+}
+
+.left-icon {
+    left: 0;
+    top: 250px;
+    height: 48px;
+    width: 42px;
+    padding: 5px 9px;
+    /* background: transparent; */
+    background-color: #bfbfbf42;
+}
+.left-icon:hover {
+ background-color: #c1aa7f;
+ transition: 0.3s ease;
+}
+
+.left-icon img {
+    scale: 0.8;
+}
+
+.right-icon img {
+    scale: 0.8;
+}
+
+.right-icon:hover {
+ background-color: #c1aa7f;
+ transition: 0.3s ease;
+}
+
+.right-icon {
+    transform: rotate(180deg);
+    top: 250px;
+    right: 0;
+    height: 48px;
+    width: 42px;
+    padding: 5px 9px;
+    background-color: #bfbfbf42;
+}
+.seven-page-lastdiv{
+    width: 90%;
+}
+
+.self-drive-vertical-lines{
+    scale: 0.40
+}
+
+.seven-page-lastdiv {
+    width: 90%;
+}
+
+#copyText {
+    flex: 1;
+    padding: 5px;
+    border: none;
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.75;
+    text-transform: capitalize;
+    color: #000000;
+    outline: none;
+}
+
+#copylabel {
+    border: none;
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.75;
+    text-transform: capitalize;
+    color: #000000;
+}
+
+
+
+
+
+#copycode {
+    flex: 1;
+    padding: 5px;
+    border: none;
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.75;
+    text-transform: capitalize;
+    color: #000000;
+    outline: none;
+}
+
+.card-body h4{
+    font-family: ' Georgia, serif';
+}
+.card-body p{
+    font-family: ' Georgia, serif';
+}

@@ -1,0 +1,130 @@
+footer {
+    background-color: #040404;
+    color: #ffff;
+    padding: 20px 0;
+}
+
+.contact-heading {
+    text-align: center;
+    margin-block: 10px;
+}
+
+.fourtheen-line{
+    height: 1px;
+    width: 185px;
+    background-color: #c1aa7f;
+    margin: auto;
+    margin-top: -5px;
+}
+
+.contact-heading h2 {
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 1.289;
+    text-transform: capitalize;
+    color: #000000;
+    text-align: center;
+    color: white;
+}
+
+.footer-columns {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 30px auto 0px;
+}
+
+.footer-column {
+    width: 30%;
+    padding: 0 20px;
+    box-sizing: border-box;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer-column h3 {
+    text-align: left !important;
+    margin-top: 0;
+    color: #a4906c;
+    margin-bottom: 15px;
+    overflow-wrap: break-word;
+    
+    font-family: 'Circular Pro', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.289;
+    text-align: center;
+}
+
+.footer-column p {
+    overflow-wrap: break-word;
+    font-family: 'Circular Pro', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.289;
+    text-align: left;
+}
+
+.footer-column ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.footer-column ul li {
+    margin-bottom: 5px;
+}
+
+.footer-bottom {
+    margin-top: 41px;
+    text-align: center;
+}
+
+.footer-links {
+    margin-bottom: 10px;
+}
+
+.footer-links a {
+    text-decoration: none;
+    overflow-wrap: break-word;
+    font-family: 'Circular Pro', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 1.289;
+    text-align: center;
+    color: #ffff;
+}
+
+.footer-links a:hover {
+    text-decoration: none;
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 1.289;
+    text-align: center;
+    color: #ffff;
+}
+
+.copyright {
+    font-size: 14px;
+    color: #ffff;
+    text-decoration: none;
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 1.289;
+    text-align: center;
+}
+
+
+@media (max-width: 768px) {
+    .footer-column {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}

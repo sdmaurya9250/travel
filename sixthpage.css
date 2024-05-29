@@ -1,0 +1,138 @@
+.sixth-page{
+    margin-top: 60px;
+}
+
+.sixth-page h1{
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'MillerDisplay', 'Georgia, serif';
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 1.289;
+    color: #000000;
+    margin-bottom: 4px;
+}
+
+.sixth-line{
+    height: 2px;
+    width: 150px;
+    background-color: #c1aa7f;
+    margin: auto;
+    margin-bottom: 90px;
+}
+
+.first-div-sixthpage{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-top: -41px;
+}
+
+.first-div-left{
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    flex-direction: column;
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.389;
+    color: #000000;
+    padding-left: 60px
+}
+
+.first-div-left h2{
+    margin-bottom: 20px;
+}
+
+.first-div-right{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 63px;
+}
+
+.right-img img{
+    scale: 0.8;
+    border-radius: 4px;
+}
+
+.right-img{
+    position: relative;
+}
+
+.sixthleft-icon{
+    position: absolute;
+    background-color: #c1aa7f;
+    height: 53px;
+    z-index: 1;
+    top: 273px;
+    left: 76px;
+    
+}
+.sixthright-icon{
+    position: absolute;
+    background-color: #c1aa7f;
+    height: 53px;
+    top: 273px;
+    z-index: 1;
+    transform: rotate(180deg);
+    right: 77px;
+
+}
+
+.second-div-sixthpage{
+    margin-top: -79px;
+}
+
+.child1{
+    width: 661px;
+    height: 416px;
+}
+
+.child1 p {
+    align-items: center;
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.389;
+    color: #000000;
+    margin-bottom: 4px;
+}
+
+.child1 h2{
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 1.289;
+    color: #000000;
+    margin-bottom: 16px;
+}
+
+.child1 h2:nth-child(1) {
+    margin-bottom: 20px;
+
+}
+.child1 h2:nth-child(2) {
+    margin-bottom: 20px;
+
+}
+
+
+
+
+
+.child1-2{
+    width: 45%;
+    /* margin-top: auto; */
+}
+
+/* .parent1 {
+    margin-bottom: 5rem !important;
+} */

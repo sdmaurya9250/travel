@@ -1,0 +1,146 @@
+.eleventh-page {
+    margin-top: 60px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.eleventh-page h1 {
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 1.289;
+    text-transform: capitalize;
+    color: #000000;
+    text-align: center;
+}
+
+.eleventh-line {
+    height: 2px;
+    width: 182px;
+    background-color: #c1aa7f;
+    margin: auto;
+    margin-bottom: 30px;
+}
+.eleventh-main {
+    border: 1px solid black;
+    /* margin-top: 30px; */
+    border-radius: 12px;
+    width: 85%;
+    margin-bottom: 20px;
+}
+
+.eleventh-main span{
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 16px;
+}
+.eleventh-main h2{
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 1.289;
+    text-transform: capitalize;
+    color: #000000;
+    background-color: #73664c;
+    border-radius: 12px 12px 0px 0px;
+    padding-left: 52px;
+    color: #ffff;    
+    padding: 24px 0px 24px 60px;
+}
+
+.eleventh-main-first img {
+    width: 16.6px;
+    height: 19px;
+}
+.eleventh-main-second img {
+    width: 16.6px;
+    height: 19px;
+}
+.eleventh-main-third img {
+    width: 16.6px;
+    height: 19px;
+}
+.eleventh-main-fourth img {
+    width: 16.6px;
+    height: 19px;
+}
+.eleventh-main-fifth img {
+    width: 16.6px;
+    height: 19px;
+}
+.eleventh-main-first {
+    padding-left: 52px;
+}
+.eleventh-main-second {
+    padding-left: 52px;
+}
+.eleventh-main-third {
+    padding-left: 52px;
+}
+.eleventh-main-fourth {
+    padding-left: 52px;
+}
+.eleventh-main-fifth {
+    padding-left: 52px;
+    
+}
+
+.eleventh-main-first span{
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.7;
+    color: #000000;
+    margin-left: 14px;
+}
+.eleventh-main-second span{
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.7;
+    color: #000000;
+    margin-left: 14px;
+}
+.eleventh-main-third span{
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.7;
+    color: #000000;
+    margin-left: 14px;
+}
+.eleventh-main-fourth span{
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.7;
+    color: #000000;
+    margin-left: 14px;
+}
+.eleventh-main-fifth span{
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.7;
+    color: #000000;
+    margin-left: 14px;
+    color: #3B5BFF;
+}
+
+.eleventh-main-first{
+    margin-top: 10px;
+}
+.eleventh-main-fifth{
+    /* margin-bottom: 15px; */
+    display: flex;
+}

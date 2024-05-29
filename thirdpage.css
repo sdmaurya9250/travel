@@ -1,0 +1,627 @@
+.third-page {
+    margin-bottom: 40px;
+}
+
+.itinerary-heading {
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 45px;
+    color: #000000;
+    text-align: center;
+    margin-bottom: 0.08px;
+}
+
+.line2 {
+    height: 1px;
+    width: 150px;
+    background-color: #c1aa7f;
+    text-align: center;
+}
+
+.thirdpage-line {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.day1 {
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-around;
+    align-items: start;
+}
+
+.left-day1 {
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+
+.left-day1 h1 {
+    background-color: #73664c;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 11px 0 11px 1.9px;
+    width: 718px;
+    box-sizing: border-box;
+    font-size: 24px;
+    color: #ffff;
+    font-family: 'Circular Pro', 'Roboto Condensed';
+    text-transform: uppercase;
+}
+
+.right-day1 {
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 3px;
+    position: sticky;
+    top: 25px;
+}
+
+.left-day1 p {
+    font-family: ' Georgia, serif';
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 10.5px 74px 10.5px 1.9px;
+    width: 717px;
+    box-sizing: border-box;
+    font-size: 24px;
+    color: #040404;
+}
+
+.left-day1 h2 {
+    margin-top: 30px;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 1.267;
+    color: #000000;
+    background-color: #F3EEE5;
+    padding: 9px 0px;
+    width: 718px;
+    margin-bottom: 0px;
+}
+
+.left-day1 img {
+    object-fit: cover;
+    /* width: 68%; */
+    border-radius: 4px;
+}
+
+
+
+
+
+
+
+
+.right-day1 p {
+    overflow-wrap: break-word;
+    font-family: 'Circular Pro', 'Roboto Condensed';
+    font-weight: 500;
+    font-size: 18px;
+    letter-spacing: 2.5px;
+    line-height: 0.889;
+    text-transform: capitalize;
+    color: #000000;
+}
+
+.leftday1-icon {
+    position: absolute;
+    background-color: #73664c;
+    /* width: 28px; */
+    padding: 4px;
+    /* height: 47px; */
+    left: 149px;
+    top: 370px;
+    z-index: 1;
+}
+
+.rightday1-icon {
+    position: absolute;
+    background-color: #73664c;
+    /* width: 28px; */
+    padding: 4px;
+    /* height: 47px; */
+    transform: rotate(180deg);
+    right: 148px;
+    top: 370px;
+    z-index: 1;
+}
+
+/* Style Kaziranga */
+
+.content3 {
+    margin-left: 50px;
+    width: 664px;
+    margin-top: 3px;
+}
+.content3 span {
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.267;
+    color: #000000;
+}
+.Kaziranga-Guwahati {   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.Kaziranga-heading {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 70%;
+}
+
+.Kaziranga-heading span {
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 1.267;
+    color: #000000;
+}
+
+.Kaziranga-heading img {
+    scale: 0.456;
+    margin-bottom: 10px;
+}
+
+.Kaziranga-heading h2 {
+    font-size: 20px;
+}
+
+.Kaziranga-para {
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.389;
+    color: #000000;
+    margin-top: 8px;
+}
+
+.viewMoreBtn {
+
+    cursor: pointer;
+    color: blue;
+    width: 222px;
+    margin: 25px 40px 0px 0px;
+}
+
+.content p {
+    font-size: 20px;
+    margin: 15px;
+}
+
+.viewMoreBtn {
+
+    cursor: pointer;
+    color: blue;
+    width: 328px;
+    margin: 30px -9px 0px 0px;
+    font-size: 17px;
+    height: 48
+}
+
+.tour-detail-first {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 70%;
+    margin-top: -30px;
+    padding-left: 42px;
+}
+.tour-detail {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 70%;
+    margin-top: -35px;
+    margin-left: 57px;
+}
+
+.car3 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 0 auto;
+    margin-left: -22px;
+}
+
+.car3 img {
+    scale: 0.29;
+    margin-bottom: 8px;
+}
+
+.car3 span {
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.267;
+    color: #000000;
+    margin-left: -24px;
+    width: 332px;
+}
+
+.car4 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 0 auto;
+    width: 55%;
+}
+
+.car4 img {
+    scale: 0.29;
+    margin: auto;
+}
+
+.car4 span {
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 1.267;
+    color: #000000;
+    margin-left: -28px;
+    width: 232px;
+}
+
+.hotel1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: -65px;
+}
+
+.hotel1 span {
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.267;
+    color: #000000;
+    margin-left: 4px;
+    width: 332px;
+}
+
+.hotel1 img {
+    scale: 0.6;
+    margin: auto 0;
+}
+
+.hotel {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: -65px;
+}
+
+.hotel img {
+    scale: 0.6;
+    margin: auto 0;
+}
+
+.hotel span {
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.267;
+    color: #000000;
+    margin-left: 4px;
+    width: 217px;
+}
+
+.remarks {
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 1.267;
+    color: #000000;
+    margin-left: -131px;
+    width: 578px;
+    display: flex;
+    align-items: start;
+    margin-bottom: -42px;
+    margin-top: 30px;
+}
+
+.remarks span{
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.267;
+    color: #000000;
+}
+
+.Sightseeing-img {
+    /* margin-top: 30px; */
+    width: 70%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Sightseeing-img h2 {
+    margin-top: 30px;
+    overflow-wrap: break-word;
+    font-family: 'Miller Banner', 'Georgia, serif';
+    font-size: 30px;
+    font-weight: 500;
+    color: #000000;
+    text-align: center;
+    background-color: #F3EEE5;
+    padding: 9px 0px;
+    width: 718px;
+    margin-bottom: 0px;
+}
+
+.Sightseeing-img img {
+    border-radius: 4px;
+    width: 100%;
+}
+
+.Sightseeingleft-icon {
+    position: absolute;
+    background-color: #73664c;
+    width: 28px;
+    padding: 5px;
+    height: 50px;
+    left: 0px;
+    top: 300px;
+}
+
+.Sightseeingright-icon {
+    position: absolute;
+    background-color: #73664c;
+    width: 28px;
+    padding: 5px;
+    height: 50px;
+    right: 0;
+    top: 300px;
+}
+
+.SOHO-heading {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 70%;
+}
+
+.SOHO-heading img {
+    scale: 0.456;
+    margin-bottom: 10px;
+}
+
+.SOHO-heading span {
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 1.267;
+    color: #000000;
+}
+
+.add-city {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    color: #000000;
+    width: 70%;
+    margin-bottom: 15px;
+    padding-left: 60px;
+    margin-top: -10px;
+}
+
+.add-city span {
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-size: 24px;
+    line-height: 1.267;
+}
+
+.SOHO-para {
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.389;
+    color: #000000;
+    padding-left: 60px;
+}
+
+.SOHO-para span{
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.267;
+    margin-bottom: 30px;
+}
+
+.tour-detail-1 {
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Roboto Condensed';
+    align-items: center;
+    /* width: 70%; */
+}
+
+/* view more */
+.content {
+    max-height: 50px;
+    /* Initial height to show */
+    overflow: hidden;
+    /* Hide overflow */
+    transition: max-height 0.3s ease;
+    /* Smooth transition animation */
+}
+
+.showContent {
+    max-height: none;
+    /* Show full content when toggled */
+}
+
+.content p {
+    /* font-size: 20px; */
+}
+
+.right-btn a {
+    text-decoration: none;
+    color: #000000;
+    font-family: 'Circular Pro', 'Roboto Condensed';
+    font-size: 18px;
+}
+
+.right-btn-color{
+    background-color: #F3EEE5;
+}
+
+.right-btn-active{
+    background-color: #73664c;
+    transition: background-color 0.5s;
+}
+
+.arrow {
+    position: absolute;
+    left: -25px;
+    top: -1px;
+    width: 0;
+    height: 0;
+    border-top: 27px solid transparent;
+    border-bottom: 27px solid transparent;
+    border-right: 26px solid #73664c;
+    opacity: 0;
+}
+
+/* .right-btn:hover .arrow {
+    opacity: 1;
+    transition: opacity 0.5s;
+} */
+
+.right-btn {
+    position: relative;
+    text-decoration: none;
+    overflow-wrap: break-word;
+    font-weight: 500;
+    font-size: 18px;
+    letter-spacing: 2.5px;
+    padding: 12px 30px 12px 39px;
+    color: #0c0c0c;
+    margin-left: 67px;
+    width: 70%;
+    background-color: #F3EEE5;
+}
+
+
+
+.right-btn:hover{
+    /* position: relative; */
+    text-decoration: none;
+    overflow-wrap: break-word;
+    font-family: 'Circular Pro', 'Roboto Condensed';
+    font-weight: 500;
+    font-size: 18px;
+    letter-spacing: 2.5px;
+    padding: 12px 30px 12px 39px;
+    color: #0c0c0c;
+    margin-left: 67px;
+    width: 70%;
+    /* background-color: #73664c; */
+}
+
+
+
+.content1 {
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.267;
+    color: #000000;
+    padding-left: 17px;
+    width: 664px;
+}
+
+.content1 span {
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.267;
+
+}
+
+.content2 {
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 1.267;
+    color: #000000;
+}
+.content2 span {
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 1.267;
+
+}
+
+.kaziranga-hoteladdress-location{
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    margin-left: 127px;
+    width: 70%;
+    margin-top: -16px;
+}
+.kaziranga-hoteladdress-location h3{
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.267;
+    color: #000000;
+    margin-bottom: 2px;
+
+}
+
+.kaziranga-hoteladdress-location h4{
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.267;
+    color: #000000;
+}

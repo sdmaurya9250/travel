@@ -1,0 +1,117 @@
+.twelveth-page {
+    background-color: #F3EEE5;
+    padding-top: 30px;
+}
+
+.twelveth-page h1 {
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 1.289;
+    text-transform: capitalize;
+    color: #000000;
+    text-align: center;
+}
+
+.twelveth-line {
+    height: 2px;
+    width: 140px;
+    background-color: #c1aa7f;
+    margin: auto;
+}
+
+.twelve-card{
+    margin-inline: 26px;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* margin: 14px 22px; */
+    /* -webkit-box-shadow: 1px 2px 6px 1px rgba(0,0,0,0.44);
+    -moz-box-shadow: 1px 2px 6px 1px rgba(0,0,0,0.44);
+    box-shadow: 1px 2px 6px 1px rgba(0,0,0,0.44); */
+    border-radius: 4px;
+    position: relative;
+}
+
+.card-img{
+    position: relative;
+    scale: 0.8;
+    margin-top: -25px;
+    object-fit: cover;
+}
+
+.card-center-img img{
+  scale: 0.2;
+    border-radius: 50%;
+    position: absolute;
+    top: 53px;
+}
+
+.card-star{
+    margin-top: -22px;
+    scale: 0.5;
+    display: flex;
+}
+
+.card-username h1{
+     overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 29px;
+    line-height: 1;
+    color: #000000;
+}
+
+.card-details{
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 1;
+    color: #000000;
+    margin-block: 11px;
+    padding-inline: 63px
+}
+
+.swiper {
+    width: 100%;
+    height: 100%;
+    padding-bottom: 35px;
+    flex-direction: row;
+    justify-content: center;
+    overflow-x: hidden;
+    width: 100%;
+}
+
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.swiper-slide img {
+    display: block;
+    width: 100%; 
+    object-fit: cover;
+}
+
+/* .swiper-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    overflow-x: hidden;
+    width: 100%;
+} */
+

@@ -1,0 +1,273 @@
+.seventh-first-div {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    width: 90%;
+    background-color: #ffff;
+    padding-bottom: 11px;
+    /* margin: 0 auto; */
+    padding: 0;
+    margin-bottom: 30px;
+  
+}
+.seventh-page{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #F3EEE5;
+    margin-top: 60px;
+}
+.seventh-page h1 {
+    /* display: inline-block; */
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 1.289;
+    color: #000000;
+    text-align: center;
+}
+
+.seventh-line {
+    height: 2px;
+    width: 90px;
+    background-color: #c1aa7f;
+    margin: auto;
+}
+
+.seventh-title {
+    /* display: inline-block; */
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 1.031;
+    color: #000000;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.seventh-img img {
+    /* scale: 0.6; */
+}
+
+.seventh-img {
+    /* position: relative; */
+}
+
+.seventhleft-icon {
+    position: absolute;
+    background-color: #c8c0bb;
+    height: 54px;
+    z-index: 1;
+    left: 105px;
+    top: 237px;
+}
+
+.seventhright-icon {
+    position: absolute;
+    background-color: #c8c0bb;
+    height: 54px;
+    left: 395px;
+    top: 237px;
+    z-index: 1;
+}
+
+.seventh-star img {
+    scale: 0.5;
+    margin-left: -10px;
+}
+
+.seventh-details-head {
+    /* text-align: center; */
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 1;
+    color: #000000;
+}
+
+.seventh-address {
+    margin-bottom: -7px;
+}
+
+.seventh-citi {
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    align-items: center;
+    box-sizing: border-box;
+    color: #857a63;
+    margin-left: -10.2px;
+}
+
+.seventh-citi img {
+    scale: 0.45;
+    margin-bottom: 6px;
+}
+
+.seventh-night {
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    align-items: center;
+    box-sizing: border-box;
+    color: #857a63;
+    margin-top: -24px;
+    /* margin-left: -7.5px; */
+
+
+}
+
+.seventh-detail {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    /* margin-right: 72px; */
+}
+
+.seventh-night img {
+    scale: 0.5;
+    margin-bottom: 6px;
+
+}
+
+.seventh-chekin {
+    /* width: 164px; */
+    display: flex;
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.375;
+    color: #000000;
+    margin-bottom: 10px;
+}
+
+.seventh-chekin span{
+    overflow-wrap: break-word;
+    font-family: ' Georgia, serif';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.375;
+    color: #000000;
+}
+
+.seventh-hotel {
+    background-color: #73664c;
+    color: #ffff;
+}
+
+.seventh-hotel {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 19px 90px;
+    margin-top: 14px;
+    position: relative;
+}
+
+.seventh-hotel-head {
+    color: #ffff;
+}
+
+.seventh-standard,
+.seventh-adults,
+.seventh-breakfast {
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    align-items: center;
+    box-sizing: border-box;
+    margin-top: 10px;
+}
+
+.seventh-standard {
+    margin-top: 5px;
+}
+
+.seventh-adults {
+    margin-top: -11px;
+}
+
+.seventh-breakfast {
+    margin-top: -11px;
+}
+
+.seventh-standard img {
+
+    scale: 0.6;
+    margin-bottom: 5px;
+}
+
+.seventh-adults img {
+    scale: 0.6;
+    margin-bottom: 9px;
+
+}
+
+.seventh-breakfast img {
+    margin-bottom: 5px;
+    scale: 0.6;
+}
+
+.seventhleft-hotel-icon {
+    position: absolute;
+    top: 63px;
+    left: 0;
+}
+
+.seventhleft-hotel-icon img {
+    scale: 0.5;
+}
+
+.seventhright-hotel-icon {
+    position: absolute;
+    transform: rotate(180deg);
+    right: 0;
+    top: 63px;
+}
+
+.seventhright-hotel-icon {
+    scale: 0.5;
+}
+
+.seventh-second-div {
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: -72px;
+    /* width: 95%; */
+    flex-wrap: wrap;
+}
+
+.seven-page{
+    width: 25%;
+}
+
+.seven-page-lastdiv{
+    width: 90%;
+}
+
+
+.seventh-page-remarks span{
+    font-size: 18px;
+    color: #857a63;
+    text-decoration: underline;
+    font-family: ' Georgia, serif';
+}
+.seventh-page-remarks p{
+    font-size: 15px;
+    font-family: ' Georgia, serif';
+    font-size: 15px;
+}
+
+.seventh-remakrs{
+    font-size: 18px;
+    color: #857a63;
+    text-decoration: underline;
+}
